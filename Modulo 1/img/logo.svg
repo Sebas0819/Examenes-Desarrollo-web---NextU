@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="216.5" xml:space="preserve" y="173.5"/>
+  <path d="m153.220144,50.208601l223.726267,0l74.575552,141.219759l-74.575552,141.220385l-223.726267,0l74.575532,-141.220385l-74.575532,-141.219759z" fill="#10d362" id="svg_6" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(90.4144 302.371 191.429)"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(8.42653 0 0 5.96369 -589.662 -755.717)" x="98.043633" xml:space="preserve" y="167.164858">S</text>
+  <path d="m180.5,150.5l74.5,209.5l-74.5,-209.5z" fill="#000000" id="svg_9" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(10.7107 0 0 5.88671 -2171.69 -871.239)" x="237.2561" xml:space="preserve" y="189.227687">P</text>
+ </g>
+</svg>
